@@ -1,0 +1,10 @@
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_7_1\bin\Debug\LAB_7_1.exe.config
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_7_1\bin\Debug\LAB_7_1.exe
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_7_1\bin\Debug\LAB_7_1.pdb
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_7_1\obj\Debug\LAB_7_1.csprojAssemblyReference.cache
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_7_1\obj\Debug\LAB_7_1.Form1.resources
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_7_1\obj\Debug\LAB_7_1.Properties.Resources.resources
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_7_1\obj\Debug\LAB_7_1.csproj.GenerateResource.cache
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_7_1\obj\Debug\LAB_7_1.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_7_1\obj\Debug\LAB_7_1.exe
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_7_1\obj\Debug\LAB_7_1.pdb
